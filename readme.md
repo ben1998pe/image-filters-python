@@ -1,6 +1,6 @@
 # 🖼️ image-filters-python
 
-Editor de imágenes en Python que aplica filtros visuales sorprendentes.  
+Editor de imágenes en Python que aplica filtros visuales y sorprendentes.  
 Este proyecto convierte cualquier imagen en una versión estilo **caricatura o cómic**, ideal para experimentar con procesamiento de imágenes usando OpenCV.
 
 ## 🎨 Ejemplo
